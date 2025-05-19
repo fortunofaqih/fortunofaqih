@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Fortuno Ery Faqih 👋
+
+![Fortuno Ery Faqih](img.png)
 
 <!--
 **fortunofaqih/fortunofaqih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Surabaya Zoo
+- 🌱 I’m currently learning Web Programming
+- 😄😄😄😄😄😄
+
+![happy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU2MDNneG44bHptcXU2dmQ5NWdpcjByb2I1cGRxOGI5OHg3dTJzciZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/Z21HJj2kz9uBG/giphy.gif)
