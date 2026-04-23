@@ -8,7 +8,7 @@ Seorang IT Staff dan Developer yang berfokus pada pengembangan sistem manajemen 
 - 🔭 **Sedang mengerjakan:** Sistem manajemen inventaris dan aplikasi pelaporan mutasi barang.
 - 🌱 **Sedang mendalami:** Machine Learning & Computer Vision (YOLO) untuk Quality Control industri.
 - ⚡ **Minat khusus:** Integrasi Hardware (Arduino/Microcontroller) dengan sistem perangkat lunak.
-- 📫 **Kontak:** [Tambahkan Link LinkedIn atau Email Anda di sini]
+- 📫 **Kontak:** fortuntun@gmail.com
 
 ---
 
