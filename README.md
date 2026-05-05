@@ -3,12 +3,13 @@
 ![Fortuno Ery Faqih](github-header-image.png)
 
 ### 👨‍💻 About Me
-Seorang IT Staff dan Developer yang berfokus pada pengembangan sistem manajemen industri dan integrasi teknologi cerdas. Saat ini saya aktif membangun solusi berbasis web dan optimasi proses produksi menggunakan AI.
+An IT Staff and Developer focused on developing industrial management systems and integrating smart technologies. Currently, I am actively building web-based solutions and optimizing production processes using AI.
 
-- 🔭 **Sedang mengerjakan:** Sistem manajemen inventaris dan aplikasi pelaporan mutasi barang.
-- 🌱 **Sedang mendalami:** Machine Learning & Computer Vision (YOLO) untuk Quality Control industri.
-- ⚡ **Minat khusus:** Integrasi Hardware (Arduino/Microcontroller) dengan sistem perangkat lunak.
-- 📫 **Kontak:** fortuntun@gmail.com
+- 🔭 **Currently working on:** Inventory management system and stock movement reporting application.
+- 🌱 **Currently learning:** Machine Learning & Computer Vision (YOLO) for industrial Quality Control.
+- ⚡ **Special interest:** Hardware integration (Arduino/Microcontroller) with software systems.
+- 📫 **Contact:** [fortuntun@gmail.com](mailto:fortuntun@gmail.com)
+
 
 ---
 
