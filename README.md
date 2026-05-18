@@ -35,7 +35,7 @@ An IT Staff and Developer focused on developing industrial management systems an
 ---
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortunofaqih)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortunofaqih)](https://github.com/fortunofaqih/github-readme-stats)
 
 ---
 
