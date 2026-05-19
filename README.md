@@ -34,8 +34,10 @@ An IT Staff and Developer focused on developing industrial management systems an
 
 ---
 
-### 📊 GitHub Stats
-[![Fortuno's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortunofaqih&cache_seconds=21600)](https://github.com/fortunofaqih)
+### <summary><strong>Let's connect!</strong></summary>
+<a href="https://x.com/Fortuntun">
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
 
 ---
 
