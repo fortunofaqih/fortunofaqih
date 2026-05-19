@@ -34,10 +34,9 @@ An IT Staff and Developer focused on developing industrial management systems an
 
 ---
 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://x.com/Fortuntun">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
+<h2 align="center">
+   I ❤ Open Source.
+</h2>
 
 ---
 
